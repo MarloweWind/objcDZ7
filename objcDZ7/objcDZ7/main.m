@@ -10,6 +10,7 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
+        
         printf("Введите текст или -1 для записи на диск:");
         
         char c[255];
